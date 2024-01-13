@@ -1,0 +1,110 @@
+{
+   "checksum": "1d9a9e9f7ad2e70f2726725c9e0df461",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13223593887219078",
+            "date_last_used": "0",
+            "guid": "174c9d6f-7b91-4409-9373-16fa6f659700",
+            "id": "5",
+            "name": "YouTube to Mp3 Converter",
+            "type": "url",
+            "url": "https://ytmp3.cc/en9/"
+         }, {
+            "date_added": "13112052929119138",
+            "date_last_used": "0",
+            "guid": "56d009e8-5165-4e15-9da3-dd5852401919",
+            "id": "6",
+            "meta_info": {
+               "last_visited_desktop": "13205559032839808"
+            },
+            "name": "youtube",
+            "type": "url",
+            "url": "http://www.youtube.com/"
+         }, {
+            "date_added": "13255624818200276",
+            "date_last_used": "0",
+            "guid": "e343a9af-0680-4fde-87cf-8d29e821fd12",
+            "id": "7",
+            "name": "Schedule",
+            "type": "url",
+            "url": "https://documents.veracross.com/fcs/schedule/14643"
+         } ],
+         "date_added": "13349589020673852",
+         "date_last_used": "0",
+         "date_modified": "13255624818200276",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13349589020673855",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [ {
+            "date_added": "13149044720660121",
+            "date_last_used": "0",
+            "guid": "d9c65006-d576-4a6e-bf4f-47dca2865023",
+            "id": "8",
+            "meta_info": {
+               "last_visited_desktop": "13205183876429177"
+            },
+            "name": "Friends' Central School - Student Portal",
+            "type": "url",
+            "url": "https://portals.veracross.com/fcs/student"
+         }, {
+            "date_added": "13151070293081399",
+            "date_last_used": "0",
+            "guid": "6d2c8607-39b6-4c40-ab93-dd370be5cc57",
+            "id": "9",
+            "name": "https://www.soccer.com/shop/products/footwear/firm-ground-cleats?facet=genderAges_ntk_cs:\"Youth\"&facet=price_USD:(%7B15 70%7D 70)",
+            "type": "url",
+            "url": "https://www.soccer.com/shop/products/footwear/firm-ground-cleats?facet=genderAges_ntk_cs:%22Youth%22&facet=price_USD:(%7B15%2070%7D%2070)"
+         }, {
+            "date_added": "13175402192563858",
+            "date_last_used": "0",
+            "guid": "75a619c5-6a4f-43b2-ade6-6fda04821e53",
+            "id": "10",
+            "name": "https://www.google.com/search?q=world+cup&rlz=1C9BKJA_enUS761US761&oq=world+cup&aqs=chrome..69i57j0l3.1695j1j7&hl=en-US&sourceid=chrome-mobile&ie=UTF-8#sie=lg;/m/06qjc4;2;/m/030q7;br;fp;1",
+            "type": "url",
+            "url": "https://www.google.com/search?q=world+cup&rlz=1C9BKJA_enUS761US761&oq=world+cup&aqs=chrome..69i57j0l3.1695j1j7&hl=en-US&sourceid=chrome-mobile&ie=UTF-8#sie=lg;/m/06qjc4;2;/m/030q7;br;fp;1"
+         }, {
+            "date_added": "13191890776150873",
+            "date_last_used": "0",
+            "guid": "30ad4061-68e2-4b70-8b86-18a3c42b95ea",
+            "id": "11",
+            "meta_info": {
+               "last_visited_desktop": "13205381330123661"
+            },
+            "name": "BeasttrollMC - Twitch",
+            "type": "url",
+            "url": "https://www.twitch.tv/beasttrollmc"
+         }, {
+            "date_added": "13222069679890925",
+            "date_last_used": "0",
+            "guid": "e3741a87-0afc-48ff-a078-8e0d3369becb",
+            "id": "12",
+            "name": "How to Make a Discord Bot | Digital Trends",
+            "type": "url",
+            "url": "https://www.digitaltrends.com/gaming/how-to-make-a-discord-bot/"
+         } ],
+         "date_added": "13349589020673856",
+         "date_last_used": "0",
+         "date_modified": "13222069679890925",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CtMCCrICCIiBAhKrAiAAkgGgAgrWAQoOY2hyb21lX3N5bmNfYm0SBTUxIWJtGhIJzf23HssOBgARzf23HssOBgAiNAmscLIeyw4GABADGSObBCgdGlEqIAEqHDUxIWJtL2ZkOjkxNjM3MjM1NTk0Njg4OTMxNjEiNAmscLIeyw4GABADGSObBCgdGlEqIAEqHDUxIWJtL2ZkOjkxNjM3MjM1NTk0Njg4OTMxNjEiNAmscLIeyw4GABADGSObBCgdGlEqIAEqHDUxIWJtL2ZkOjkxNjM3MjM1NTk0Njg4OTMxNjEpVCW4HssOBgAKRQoWYW5ub3RhdGlvbl9jaHJvbWVfc3luYxIFNTEhYmQaEgkASyQayw4GABEASyQayw4GACkD/Lceyw4GADCAlpHRsdmDA7oBAggBEgAqGHR1RVRTRUdjMGFFMlpxU3Q1QkZoNkE9PUgDEq0CCAwSqAIKHGgvWUUzUERWZ2VBb3FCMjF5RmdtZEpiVkpDMD0SpgFaOkFEcXRBWnl3L2NtQXdvZE1VSVU1RUZDMUQzL0F1VExKaWw3ODhWc2dCR0tLNGIrcVNkbzMvWWw5c3VwR2RwdDJBR0xkVC9UbXFTRi9QVmFNSHg5amEyVWZBVkN3amxWSitvYU5qNzdwc0JZMmFBelpJamlsOUorR3hEWjJ5YllhQnVLTTVCUStITC9KcVRYZmVBaHhqNnlROWE0ZjM2b2lSUT09GAAgACgAMIyxsaHR0vQCOJOet4D1LUCTnreA9S1KHFBlUTBVMDB3b1ZqNjFFMHVhTDEyc3ZYeDR0Zz1aHyId90dCYktUQTZpOVNzVUY3R3FRQVNKMzZOdEhycz1lNl1JFhKtAggLEqgCChxJWU9LRDhVeENuY01zZTNWTUlJUVVHKytmMkU9EqYBWjpBRHF0QVp5dy9jbUF3b2RNVUlVNUVGQzFEMy9BSnQ5MEhyRUFidWJQUzJDd21CczFkdUsxWUorRW12NFlZc2QyblEwL24rNExiejJDQXN0cnZ4OUQzbjErTmtNcG5ZY1ZtQWJ4K2tybE1ib3dJSDFVZ21aVVBqb3ZCZ3g2eElpY1JPUTUzY3p6WXVYRFVkUElqdHFaczhSSC90ei9YODF4alE9PRgAIAAoADCMsbGh0dL0AjjXkIHKhC1A15CByoQtShx3cms3VWdlcVltWGF3SW1sUmJrWHFnR0FJK3c9Wh8iHe5jYVJRYVlFSDRDbnliNDhGWHhwcytnL2pyYnM9ZeOAymoSrQIIChKoAgocVXRMNlVDd1ZuOGR3TnNXbHAvYytTQlNxMDJnPRKmAVo6QURxdEFaeXcvY21Bd29kTVVJVTVFRkMxRDMvQXU0WDE4SXpHMkY4cnBlSUhIKzFNbW8yb1pBK1JzWlhwRHRsUjY2YzB5eTNHOEFXenVMbTVlUi9ac1BYV2UyVG1GdWVWQUNJZURJb3Z6cW5FMU1aSHZhYXYxU0wyYWZGd3BTYytxZ3NFZmRqNXRJOEtQdU1semlIMFZxbFN6alZUektzTHN3PT0YACAAKAAwjLGxodHS9AI4tu3Rk8csQLbt0ZPHLEocM2FETml6Y0RRRjZRS1M2WHV1bi9lY05YeG5rPVofIh3dbjYrWXRpb0lJZ3dxNWZhc3dQWFQ3N3NvckZZPWUAAAAAEq0CCAkSqAIKHE5nVWY4d1RLQU5CdWtVeTJhNWtGdm9nL2JCRT0SpgFaOkFEcXRBWnl3L2NtQXdvZE1VSVU1RUZDMUQzL0FkcktOaUdkU3hVMG10NjUySnFGelpWSEd0TXJ1clIvMlVXTG1hM1piVjBndHhRMlRWcFRPOU9rcG5jWjczdjE5dkhaRkFiM2ZWSTJwUjl3SkR6MTlkZGE4d0xjNmx6b3N5MGNRbnRyWWhlbjlZcmRkcGQ3clBSUGRTYm45bGQ3S2FGR095dz09GAAgACgAMIyxsaHR0vQCOO7IpMHsK0DuyKTB7CtKHG8wQktveDdOY3p3c09zclJyLzBjRlozaDhtQT1aHyIduy9INjNQMGduQmhuWkdkZlM4eXg3Q0ozTkEwbz1l0QYRFxKtAggHEqgCChxFK0gzMUVZMFF2SDVBVHJ2ODdsMHgxRFR3QTA9EqYBWjpBRHF0QVp5dy9jbUF3b2RNVUlVNUVGQzFEMy9BSnQ5MEhyRUFidWJQUzJDd21CczFkcmp6bW9Qemd5NDVMc3NEZmtvdVpncWRVd1FnUmY0RTFJa282Q21vZU4yaFhnNFd1R1E1WE1HSUFxMm8yeGhDVkFZN0VnYlFXc3BXVzh2UWJ3YmlUdksyWGc0a3ZQNjd3dHFPODJFY1BkdDR0ZGxlZ3c9PRgAIAAoADCs/8H5rtmDAzi6u+XWxy5Aurvl1scuShxEbzlPNHZqMEJaMTVlaS9IWDJoeU5hakI5OWM9Wh8iHfpQMFU4NnZQYU1lNXNIOTJIUFIzWTVyczdNQkU9ZVcBkQcSwwEIAxK+AQocbmpnRHU4OGVDcnZYcDg2cEQ3ZkhHY3FGcDg4PRJmWjpBRHF0QVp5TkpnaFN6Y2ZNNTgvUUMvYzRmUGwyci9PbG9wSUhWREwwRXlwazRza290THpNbHJ4ODJGNTkwNTZsbFhNQ2ZGUVY5VnFGais0anZGdHIxa1VBUEhaQURPc3hvdz09GAAgACgAMKzhyfWx2YMDOABAAEoceXpOQjAxY241NEE3Y1JVMHVUKy9QZ21UdFVvPVoAZQAAAAASrQIIBRKoAgocSjBQOWNjdGlZT0pWYzV5bk51UE0yQitLQjljPRKmAVo6QURxdEFaeXcvY21Bd29kTVVJVTVFRkMxRDMvQUp0OTBIckVBYnViUFMyQ3dtQnMxZHMwb3E1SlliSWFMejcxbE91MjVSSWtmamVXOExCMEhGS09zajloVngzN1dOTVk2NHVMRW9oZnArS1ltYzdBTUdmalZ3SEsxbUxHRktwbWtBUk5XL3BsdisxMTV0aHNCYldybVZhU2ZaZmxhOXVWaUxnPT0YACAAKAAwrP/B+a7ZgwM487ud1/otQPO7ndf6LUoccTcrc1phcmhCN09zenJtdG9hVXVEaHhSTy9FPVofIh2sVzFORzNadXJtSkpEQng1bGpIV1MwdVlWOWl3PWVUX1dGEq0CCAYSqAIKHHJERXFmUGRkZm9FSFhjSG5pUnc0UDhJRjRBUT0SpgFaOkFEcXRBWnl3L2NtQXdvZE1VSVU1RUZDMUQzL0F2L25hTkNkRTVydmQ1VUNPMmNOVmdVcDB0ZGY0TFJBYTNCQmh6Q2ZpVUtSTGduUVlHN0g1VjlKUGxkOTUzU3ZJdisvWEVDb1krcHFVcm1SM1RUZ2dsVUpwZjNpU0J4NDZGWitGdE5QQkg4UTVPWUg3dHQxc2ZGRDYvSngxOW5NNjZwMW1mQT09GAAgACgAMKz/wfmu2YMDON/UrZTbKkDf1K2U2ypKHEhwRFppUTIyQ1lRUWxhQytqVHR1WUo4cXZGVT1aHyIdwTZJNjFjSnk3N0hESEFrb2hxaUhCdmZydHJNUT1lOPk5MxKrAQgBEqYBChx5eEovNmZ2a2VjcjdrcDVFUXpCNHRXTHBkYkU9Ek5aOkFEcXRBWndUNjNpK200eUNGSDFIUXpqQ1MzQm0xeEdmSzBZRXBBa05WNVVpU1NIS0lxT1FxK3ZoY3htbmU4WkJpOXdhakNLNG1TaXcYACAAKAAwrOHJ9bHZgwM4AEAAShxhUkNXTGdoRjliNUlucUtJRHZ1Si9qdlFrRmM9WgBlAAAAABKsAggIEqcCChxhRTNycGluOUk2ejYrb1R3QkpORmg4azFEeVk9EqYBWjpBRHF0QVp5dy9jbUF3b2RNVUlVNUVGQzFEMy9BM09Ld2dCRXgxZ1dVdy92ZlAvRVk2Q1NzRS9ZWjlyWHhPOWErMnErbUpKV0txY052WVpWZEo1dTlHK1Erbm42UE11a3RBWjA0L2JISEtxRXptaHlST0dmbDZZWmNUQXJpT212dlF0ZWRjNGprVUtKOGxvNERKR1VDUmppWU1oQWJ4Y2g2ZlE9PRgAIAAoADCMsbGh0dL0AjibuLX75CtAm7i1++QrShxHOEszSlFBTG5uSVYrc1c2UWJZS2xqV2dyWEk9Wh4iHHdQQStTS25nWlJpTjVpV25qcUZUOHEzejFqYz1lOOJOjxLDAQgCEr4BChxZY1NUb252RVNQd3FDczRMMmNyVmh2NjhMOTg9EmZaOkFEcXRBWnlXb1FxTEJOVkxhOFFyNEpzckZRNjRLSDZpY0tPNU5pN2M0MDh4WTg2RnNNQXhxaU1YYVgwbDdsMUhoZmc4QnFLNUhHM1FjM21TK3NXWUJTVTRWcEx4UG1CamxBPT0YACAAKAAwrOHJ9bHZgwM4AEAAShxvUFZraHdCUmJWNjVLQ1dSMitJT05IV29PdTg9WgBlAAAAADABOAA=",
+   "version": 1
+}
